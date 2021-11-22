@@ -22,9 +22,9 @@ We’ve put together some assets for those times when you want post about or lin
 - Change the colors, dimensions or add your own text/images to the VRE logo
 
 ## Contact Us
+Please contact us at [VRE Support](vre-support@charite.de)
 - If you want to use artwork not included in this repository
 - If you want to use these images in a video/mainstream media
-Please contact us at [VRE Support](vre-support@charite.de)
 
 ## Naming Products
 Please avoid naming your products anything that implies VRE’s endorsement. This also applies to domain names.
